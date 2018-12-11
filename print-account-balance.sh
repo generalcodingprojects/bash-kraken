@@ -36,3 +36,6 @@ print(sigdigest.decode())
 fi
 
 }
+
+request "private" "Balance" ""
+echo "$response"
