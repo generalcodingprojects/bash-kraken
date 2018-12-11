@@ -1,3 +1,8 @@
+# Set api-key, api secret
+api_key="insert_api_key_here"
+api_secret="insert_api_secret_here"
+api_version="0"
+
 request() {
 
 path="/$api_version/$1/$2"
